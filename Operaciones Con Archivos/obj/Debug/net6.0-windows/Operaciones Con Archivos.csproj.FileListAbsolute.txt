@@ -1,0 +1,17 @@
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\bin\Debug\net6.0-windows\Operaciones Con Archivos.exe
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\bin\Debug\net6.0-windows\Operaciones Con Archivos.deps.json
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\bin\Debug\net6.0-windows\Operaciones Con Archivos.runtimeconfig.json
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\bin\Debug\net6.0-windows\Operaciones Con Archivos.dll
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\bin\Debug\net6.0-windows\Operaciones Con Archivos.pdb
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\obj\Debug\net6.0-windows\Operaciones Con Archivos.csproj.AssemblyReference.cache
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\obj\Debug\net6.0-windows\Operaciones_Con_Archivos.Form1.resources
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\obj\Debug\net6.0-windows\Operaciones Con Archivos.csproj.GenerateResource.cache
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\obj\Debug\net6.0-windows\Operaciones Con Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\obj\Debug\net6.0-windows\Operaciones Con Archivos.AssemblyInfoInputs.cache
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\obj\Debug\net6.0-windows\Operaciones Con Archivos.AssemblyInfo.cs
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\obj\Debug\net6.0-windows\Operaciones Con Archivos.csproj.CoreCompileInputs.cache
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\obj\Debug\net6.0-windows\Operaciones Con Archivos.dll
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\obj\Debug\net6.0-windows\refint\Operaciones Con Archivos.dll
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\obj\Debug\net6.0-windows\Operaciones Con Archivos.pdb
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\obj\Debug\net6.0-windows\Operaciones Con Archivos.genruntimeconfig.cache
+C:\Desarrollo\C#\Operaciones Con Archivos\Operaciones Con Archivos\obj\Debug\net6.0-windows\ref\Operaciones Con Archivos.dll

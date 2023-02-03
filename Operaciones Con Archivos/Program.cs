@@ -5,6 +5,10 @@ namespace Operaciones_Con_Archivos
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
+      
+        public const string FICHERO = "Fichero.txt";
+        public const string RESULTADO_SUMA = "Resultado_suma.txt";
+
         [STAThread]
         static void Main()
         {
