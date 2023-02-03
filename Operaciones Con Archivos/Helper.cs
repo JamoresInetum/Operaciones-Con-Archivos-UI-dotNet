@@ -33,8 +33,15 @@ namespace Operaciones_Con_Archivos
             int suma = 0;
             for (int i = 0; i < lineas.Length; i++)
             {
-                numeros[i] = Convert.ToInt32(lineas[i]);
-                suma += numeros[i];
+                try
+                {
+                    numeros[i] = Convert.ToInt32(lineas[i]);
+                    suma += numeros[i];
+                } catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+                
             }
             GuardarEnArchivo(nombreArchivoSalida, suma.ToString());
         }
